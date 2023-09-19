@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Ashritha, a passionate Data Analyst. I love to explore new technologies and contribute to open source projects. Here you'll find a collection of my personal and collaborative projects.
+I'm Ashritha, a passionate Software Engineer / Data Analyst. I love to explore new technologies and contribute to open source projects. Here you'll find a collection of my personal and collaborative projects.
+
+Check out - <a href="https://ashritha.live" target="_blank">ashritha.live<a/>
 
 ### Connect with Me
 https://www.linkedin.com/in/ashrithab/  
