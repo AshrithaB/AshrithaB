@@ -7,7 +7,11 @@ I'm Ashritha, a passionate Software Engineer / Data Analyst. I love to explore n
 [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"/>](https://www.kaggle.com/ashritha8)
 [<img src="https://img.shields.io/badge/Website-%2320BEFF.svg?&style=for-the-badge&logo=Wikipedia&logoColor=white" target="_blank"/>](https://ashritha.live/)
 
-
+<h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> Coding Profiles </h3> 
+<a href="https://leetcode.com/Ashritha785/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.hackerrank.com/ashritha78587"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
+  
+  
 Let's connect and collaborate on exciting projects together!
 
 ### <a href="https://leetcode.com/Ashritha785/" target="_blank"> Happy coding!</a> ✨
