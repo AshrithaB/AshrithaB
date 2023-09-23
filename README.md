@@ -3,9 +3,9 @@
 I'm Ashritha, a passionate Software Engineer / Data Analyst. I love to explore new technologies and contribute to open source projects. Here you'll find a collection of my personal and collaborative projects.
 
 ### Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashrithab/)
-[<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ashritha8)
-[<img src="https://img.shields.io/badge/Website-%2320BEFF.svg?&style=for-the-badge&logo=Wikipedia&logoColor=white" />](https://ashritha.live/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/ashrithab/)
+[<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"/>](https://www.kaggle.com/ashritha8)
+[<img src="https://img.shields.io/badge/Website-%2320BEFF.svg?&style=for-the-badge&logo=Wikipedia&logoColor=white" target="_blank"/>](https://ashritha.live/)
 
 
 Let's connect and collaborate on exciting projects together!
