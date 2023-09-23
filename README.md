@@ -11,10 +11,10 @@ I'm Ashritha, a passionate Software Engineer / Data Analyst. I love to explore n
 <a href="https://leetcode.com/Ashritha785/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.hackerrank.com/ashritha78587"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 
-<br/>
+### 
 Let's connect and collaborate on exciting projects together!
 
-### <a href="https://leetcode.com/Ashritha785/" target="_blank"> Happy coding!</a> ✨
+### Happy coding! ✨
 
 <!--
 
