@@ -12,6 +12,10 @@ I'm Ashritha, a passionate Software Engineer / Data Analyst. I love to explore n
 <a href="https://www.hackerrank.com/ashritha78587"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 
 ### 
+
+![](https://komarev.com/ghpvc/?username=AshrithaB)
+
+### 
 Let's connect and collaborate on exciting projects together!
 
 ### Happy coding! ✨
